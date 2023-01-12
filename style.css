@@ -540,44 +540,142 @@ nav {
 .footer {
     background-color: #F6F5F4;
     height: 160px;
-    display: flex;
-    justify-content: center;
     margin: 0;
-    padding: 15px;
-}
-
-.div8 {
-    width: 1180px;
-    display: flex;
-    padding: 15px;
+    padding: 0;
 }
 
 .line {
     display: flex;
-    align-items: center;
-    margin: 0;
-    width: 100%;
+    margin: 0 auto;
+    width: 1180px;
     height: 50%;
 }
 
 .links {
     width: 100%;
-    display: flex;
-    align-items: center;
+}
+
+.home1 {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+}
+
+.textbook0 {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
+}
+
+.statistics003 {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
+}
+
+.sprinttext {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
+}
+
+.audio1 {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
 }
 
 .names {
     width: 100%;
     display: flex;
-    align-items: center;
     justify-content: end;
-    margin-left: auto;
+}
+
+.alex {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+}
+
+.gabriel {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
+}
+
+.marcus {
+    text-decoration: none;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #757575;
+    padding-left: 30px;
 }
 
 .line2 {
     display: flex;
-    align-items: center;
-    width: 100%;
+    margin: 0 auto;
+    width: 1180px;
     height: 50%;
-    margin: 0;
+    border-top: 5px solid #E0E0E0;
+}
+
+.media {
+    width: 100%;
+}
+
+.last {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    color: #757575;
+}
+
+.cikvi {
+    height: 19.871854782104492px;
+    width: 24.81036376953125px;
+    border-radius: 0px;
+}
+
+.gt {
+    width: 27.9px;
+    height: 18.73px;
+    margin-left: 30px;
+}
+
+.youtube {
+    Width: 25.1px;
+    Height: 17.57px;
+    margin-left: 30px;
 }
