@@ -355,10 +355,49 @@ nav {
 .w600{
     padding-top: 48.72px;
     padding-bottom: 134.61px;
+    display: flex;
+    align-items: center;
+}
+
+.e600 {
+    font-family: delagothic;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    padding-right: 48.78px;
+}
+
+.plus1 {
+    color: #2B788B;
+}
+
+.p10 {
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #585858;
+    margin: 0;
+    padding-left: 20px;
+    padding-top: 0px;
 }
 
 .plus2 {
-    padding-left: 101.51px;
+    padding-left: 52.73px;
+    font-family: delagothic;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    border-left: 1px solid #E0E0E0;
+}
+
+.minigames {
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0;
+    color: #585858;
 }
 
 /* მეორე კონტეინერი */
